@@ -1,0 +1,27 @@
+{
+  "name": "testing",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaltazarCortina/testing.git"
+  },
+  "author": "Baltazar Cortina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaltazarCortina/testing/issues"
+  },
+  "homepage": "https://github.com/BaltazarCortina/testing#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
